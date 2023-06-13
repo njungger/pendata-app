@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 
 # baca model
-mlp_model=pickle.load(open("mlp.pkl"))
+mlp_model=pickle.load(open("https://github.com/njungger/pendata-app/blob/main/mlp.pkl"))
 
 # judul web
 st.title("implementasi MLP dengan data Wine yoooo123")
