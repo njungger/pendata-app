@@ -5,7 +5,7 @@ import streamlit as st
 # mlp_model=pickle.load(open("mlp.pkl"))
 
 # judul web
-st.title("implementasi MLP dengan data Wine")
+st.title("implementasi MLP dengan data Wine yoooo")
 
 Alcohol = st.text_input('input nilai Alcohol')
 Malic_acid = st.text_input('input nilai Malic Acid')
