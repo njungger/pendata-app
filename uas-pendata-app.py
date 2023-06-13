@@ -5,7 +5,7 @@ import streamlit as st
 # mlp_model=pickle.load(open("https://github.com/njungger/pendata-app/blob/main/mlp.pkl"))
 
 # judul web
-st.title("implementasi MLP dengan data Wine yoooo123")
+st.title("implementasi MLP dengan data Wine")
 
 Alcohol = st.text_input('input nilai Alcohol')
 Malic_acid = st.text_input('input nilai Malic Acid')
